@@ -7,8 +7,8 @@
 *.opendb
 
 # Папки сборки
-bin/
-obj/
+BrainAnalizer/bin/
+BrainAnalizer/obj/
 
 # NuGet-пакеты
 packages/
